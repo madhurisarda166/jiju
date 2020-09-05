@@ -1,0 +1,14 @@
+    
+.first{
+    background-image: url('https://media.tenor.com/images/783b23983a669b60969354290f5ce247/tenor.gif');
+    background-attachment: fixed;
+    width: 100%;
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border:5px dashed red;
+    border-radius: 50px;
+    
+   }
+   
